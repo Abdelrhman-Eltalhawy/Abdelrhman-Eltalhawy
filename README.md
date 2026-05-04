@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Eltalhawy</h1>
-<h3 align="center">Computer Science Student at Mansoura University</h3>
+<h3 align="center">Computer Science Student from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman-Eltalhawy" alt="Abdelrhman-Eltalhawy" /></a> </p>
 
